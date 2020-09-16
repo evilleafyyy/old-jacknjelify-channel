@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<pagescount>
+	<html_total>80</html_total>
+	<html_done>1</html_done>
+	<img>110</img>
+	<js>3</js>
+	<css>3</css>
+	<pdf/>
+	<doc/>
+	<xls/>
+	<ppt/>
+	<swf/>
+	<mp3/>
+	<mp4/>
+	<xml/>
+	<json/>
+	<txt/>
+	<fonts/>
+	<scraping_reload>2</scraping_reload>
+	<is_pretty_url>true</is_pretty_url>
+	<is_ebn>false</is_ebn>
+	<email>allenokurawo@gmail.com</email>
+	<theme_name>105727</theme_name>
+	<server_url_front_page>https://www.waybackmachinedownloader.com/scraping/files/demo/youtube.com_allenokurawo_gmail.com_4mniqg18wc/</server_url_front_page>
+	<no_www_url>youtube.com</no_www_url>
+	<hosted_domain/>
+	<original_archive_url>https://web.archive.org/web/20110513015749/http://www.youtube.com/user/jacknjellify</original_archive_url>
+	<final_archive_url>https://web.archive.org/web/20110513015749/http://www.youtube.com/user%2Fjacknjellify</final_archive_url>
+	<front_page_code_date>20110513015749</front_page_code_date>
+	<total_urls_from_api/>
+	<max_reached_live>false</max_reached_live>
+	<scrape_other_captures>false</scrape_other_captures>
+	<total_size>16</total_size>
+</pagescount>
